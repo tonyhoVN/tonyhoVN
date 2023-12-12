@@ -1,6 +1,6 @@
 # Anh Tung Ho (Tony Ho)
 - I work as a Robotic Engineering. 
-- I am enthusiastic about Modelling and Controlling Robotic Systems and Automation.
+- I am enthusiastic about controlling Robotics and Automation System.
 - Feel free to contact me at tonyho2000@kaist.ac.kr
 
 <!---
