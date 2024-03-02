@@ -1,6 +1,6 @@
 # Anh Tung Ho (Tony Ho)
-- I work as a Robotic Engineering. 
-- I am enthusiastic about controlling Robotics and Automation Systems.
+- I work as a Robotic Engineer. 
+- I am enthusiastic about controlling Robotics and Automation Systems. I have hands-on experience in developing control platform for industrial manipulators, autonomous vehicles and the 3D camera.
 - Feel free to contact me at hoanhtung2000nd@gmail.com
 
 <!---
